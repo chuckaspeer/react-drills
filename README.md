@@ -436,8 +436,7 @@ class App extends Component {
 
     this.state = {
       list: []
-    };
-
+    }:
     this.handleAddTask = this.handleAddTask.bind( this );
   }
 
